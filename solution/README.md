@@ -42,4 +42,3 @@ configuration variable)
 4. Go to http://127.0.0.1:5002/ and use the swagger documentation interface or
    hit directly http://127.0.0.1:5002/report_ns/reports/stats.
 
-http://public.enthought.com/~jvkersch/2017-jpmc-bournemouth/files/advanced_python_final_exercise.zip
