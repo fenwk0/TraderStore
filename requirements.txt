@@ -6,3 +6,5 @@ sphinx==1.4.1
 flake8==2.5.1
 jupyter==1.0.0
 ipython
+notebook>=6.1.5 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
